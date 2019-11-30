@@ -1,0 +1,5 @@
+WASD to move.
+Space to jump.
+Left Shift to sprint.
+F5 Switches to Unity Character Controller
+F6 Switches to Rigidbody Charcter Controller.
